@@ -1,2 +1,4 @@
-# atalaya
-Watchtower Ruby rack application
+# Atalaya
+Watchtower Ruby rack application.
+
+Work in progress.
