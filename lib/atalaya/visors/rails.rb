@@ -13,6 +13,7 @@ module Atalaya
             action_view: nil,
             action_mailer: nil,
             action_controller: nil,
+            cache: nil,
           }
         }
       end
